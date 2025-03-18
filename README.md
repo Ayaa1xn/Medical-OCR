@@ -6,7 +6,7 @@ data. By integrating Tesseract OCR for text extraction, SciSpaCy for biomedical 
 recognition, and ChatGPT for AI-powered analysis, this solution provides a robust platform for
 processing medical documents and diagnostic data efficiently and accurately. 
 
-Based on your project, which is a Flask-based medical prediction and report analysis system, here’s what your GitHub repository should include:
+-----------------------------------------------------------------------------------------------------------
 
 ### Recommended File Structure:
 /your_project_repo

@@ -7,24 +7,6 @@ recognition, and ChatGPT for AI-powered analysis, this solution provides a robus
 processing medical documents and diagnostic data efficiently and accurately. 
 
 -----------------------------------------------------------------------------------------------------------
-
-### Recommended File Structure:
-/your_project_repo
-│── /models                 # Contains pre-trained model files (.pkl, .h5, etc.)
-│── /static                 # Static files like CSS, JS, Images
-│   ├── /assets
-│       ├── /images         # Uploaded images directory
-│── /templates              # HTML templates for Flask
-│── app.py                  # Main Flask application
-│── ChatGPTApi.py           # ChatGPT API integration (if missing, create)
-│── requirements.txt        # Python dependencies
-│── README.md               # GitHub repository documentation
-│── .gitignore              # Ignore unnecessary files
-│── config.py               # Configuration settings (optional)
-│── LICENSE                 # License for open-source projects (MIT recommended)
-```
-
----
 Files to Add
 - ChatGPTApi.py: Handles API communication with ChatGPT.
 - .gitignore`**: To ignore unnecessary files like model weights, venv, etc.
